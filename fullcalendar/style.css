@@ -1,0 +1,24 @@
+body{
+    background: whitesmoke;
+}
+h1 {
+    background: bisque;
+    color: white;
+    font-size: 40px;
+}
+#calendar {
+    background-color: blanchedalmond;
+    color: black;
+    font-family: sans-serif;
+    max-width: 400px;
+    max-height: 350px;
+    min-width: 300px;
+    min-height: 200px;
+    font-size: 14px;
+    top: 50px;
+    left: 50px;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+    position: absolute;
+    box-shadow: 0 0 5px 0 #ccc;
+}
